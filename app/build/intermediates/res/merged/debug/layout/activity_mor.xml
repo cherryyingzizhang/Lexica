@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="net.cherryzhang.lexicav1.MORActivity">
+
+    <include layout="@layout/toolbar"/>
+
+    <!-- Press the first blue button to start the reading test. Then, read as accurately
+     and as quickly as possible the passage. After you're done, press the final button at the bottom
+     to calculate your reading speed.-->
+
+    <ProgressBar
+        android:id="@+id/progressCircle"
+        android:indeterminate="true"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="100dp"
+        android:layout_height="100dp"/>
+
+    <ScrollView
+        android:id="@+id/svMORTest"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/bStartTest"
+                style="@style/btnStyleSeagull"
+                android:layout_width="120dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center_horizontal"
+                android:drawableStart="@drawable/ic_playpause"
+                android:text="Start" />
+
+            <net.cherryzhang.lexicav1.TextToSpeechTextView
+                android:id="@+id/tvMORText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/black"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Small Text"/>
+
+            <Button
+                android:id="@+id/bStopTest"
+                style="@style/btnStyleSeagull"
+                android:layout_width="120dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center_horizontal"
+                android:drawableStart="@drawable/ic_stop_black_24dp"
+                android:text="Finished" />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/llMORResult"
+        android:visibility="gone"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="44dp"
+            android:background="@drawable/rounded_edges"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tvMORResult"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Reading Speed: 350 wpm"
+                android:gravity="center"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bFinishMORtest"
+            android:text="Finish"
+            android:layout_marginTop="20dp"
+            style="@style/btnStyleSeagull"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_check_black_24dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

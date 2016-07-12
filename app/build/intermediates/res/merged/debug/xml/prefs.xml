@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+     <PreferenceCategory
+     android:title="Font Options for Item and Description Detail Screen">
+    
+	    <ListPreference
+	        android:title="Change Font"
+			android:icon="@drawable/ic_format_font_black_24dp"
+	        android:key="Font"
+	        android:entries="@array/font_list"
+	        android:entryValues="@array/font_list_values"
+	        android:defaultValue="Default"></ListPreference>
+	    
+	    <ListPreference
+	        android:title="Change Text Size"
+			android:icon="@drawable/ic_format_size_black_24dp"
+	        android:key="TextSize"
+	        android:entries="@array/size_list"
+	        android:entryValues="@array/size_list_values"
+	        android:defaultValue="30"></ListPreference>
+
+		 <ListPreference
+			 android:title="Expand Description of Item by Default"
+			 android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+			 android:key="ExpandDescByDefault"
+			 android:entries="@array/expand_desc_list"
+			 android:entryValues="@array/expand_desc_list_values"
+			 android:defaultValue="true"></ListPreference>
+	
+	 </PreferenceCategory>
+	 
+	 <!--<PreferenceCategory android:title="Quiz Question Time" >-->
+        <!--<com.example.lexicav1.SeekBarPreference-->
+            <!--android:defaultValue="2"-->
+            <!--android:dialogMessage="Use this to change the time you are allowed to answer each question in the quiz."-->
+            <!--android:key="SEEKBAR_VALUE"-->
+            <!--android:max="4"-->
+            <!--android:summary="@string/settings_summary"-->
+            <!--android:title="Change Available Time Per Question"-->
+            <!--android:text="sec." />-->
+    <!--</PreferenceCategory>-->
+    
+</PreferenceScreen>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="elv_undo">Undo</string>
+    <string name="elv_undo_all">Undo All</string>
+    <string name="elv_item_deleted">Item deleted</string>
+    <string name="elv_n_items_deleted">%1$s items deleted</string>
+    <string name="settings_summary">Summary blah</string>
+    <string name="app_name">Lexica</string>
+    <string name="SETTINGS_title">Settings</string>
+    <string name="FAQ_title">FAQ/Help</string>
+    <string name="SEARCH_title">Search</string>
+    <string name="PROFILE_title">Diagnostics</string>
+    <string name="title_book_detail">Book Detail</string>
+    <string name="appLabel">App Label</string>
+    <string name="searchHint">Search</string>
+    <string name="SORT_title">Sort By</string>
+    <string name="expand">Show Hint</string>
+    <string name="title_activity_kinesthetic">KinestheticActivity</string>
+    <string name="MOR_title">Multiple Oral Re-reading</string>
+    <string name="title_activity_mor">MORActivity</string>
+    <string name="tutorial">Tutorial</string>
+</resources>

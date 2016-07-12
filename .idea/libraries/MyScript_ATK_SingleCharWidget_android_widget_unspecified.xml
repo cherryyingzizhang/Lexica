@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MyScript_ATK-SingleCharWidget-android-widget-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/LexicaV1/MyScript_ATK-SingleCharWidget-android-widget/unspecified/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/LexicaV1/MyScript_ATK-SingleCharWidget-android-widget/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

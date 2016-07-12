@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_playpause.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_playpause.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_format_font_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_format_font_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_chevron_left_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_chevron_left_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_touch_app_white_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_touch_app_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/elv_ic_action_undo.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-ldpi/elv_ic_action_undo.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_collections_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_collections_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_date_created_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_date_created_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/elv_toast_frame.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-ldpi/elv_toast_frame.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_close_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_close_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_stop_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_stop_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_chrome_reader_mode_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_chrome_reader_mode_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_volume_up_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_volume_up_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_subject_white_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_subject_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_sort_by_alphabetical_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_sort_by_alphabetical_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_assignment_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_assignment_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_chevron_right_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_chevron_right_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_random_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_random_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_add_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_add_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_format_size_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_format_size_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_check_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_check_black_24dp.png"
+    }
+]

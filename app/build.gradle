@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "net.cherryzhang.lexicav1"
+        minSdkVersion 19
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    //compile 'com.android.support:support-v4:19.1.0'
+    compile project(':MyScript_ATK-Core-android-component')
+    compile project(':MyScript_ATK-Text-android-component')
+    compile project(':MyScript_ATK-IMCommon-android-component')
+    compile project(':MyScript_ATK-SingleCharWidget-android-widget')
+    compile 'com.github.amlcurran.showcaseview:library:5.4.3'
+    compile 'com.github.douglasjunior:android-simple-tooltip:0.1.0'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+}
+
+apply plugin: 'com.google.gms.google-services'

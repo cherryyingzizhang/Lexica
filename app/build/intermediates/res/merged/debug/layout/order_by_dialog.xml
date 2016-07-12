@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:padding="10dp">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Order List of Items By:"
+        android:textAppearance="?android:attr/textAppearanceLarge"></TextView>
+
+    <RadioGroup
+        android:id="@+id/rgOrderBy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rbAlphabetical"
+            android:text="Alphabetical"
+            android:drawableStart="@drawable/ic_sort_by_alphabetical_24dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <RadioButton
+            android:id="@+id/rbRandom"
+            android:text="Random"
+            android:drawableStart="@drawable/ic_random_24dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <RadioButton
+            android:id="@+id/rbDateCreated"
+            android:text="Date Created"
+            android:drawableStart="@drawable/ic_date_created_black_24dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/bConfirmOrderByDialog"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        style="@style/btnStyleSeagull"
+        android:drawableStart="@drawable/ic_check_black_24dp"
+        android:text="Ok"/>
+</LinearLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/raw/cute_kirby_button_sound.mp3",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/raw/cute_kirby_button_sound.mp3"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/raw/wrong_answer.mp3",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/raw/wrong_answer.mp3"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/raw/correct_answer.mp3",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/raw/correct_answer.mp3"
+    }
+]

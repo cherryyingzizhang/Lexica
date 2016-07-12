@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="net.cherryzhang.lexicav1"
+          xmlns:android="http://schemas.android.com/apk/res/android"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="19"/>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:name="net.cherryzhang.lexicav1.ApplicationOverrideMethods"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:imeOptions="actionSend|flagNoEnterAction"
+        android:label="@string/app_name"
+        android:theme="@style/MyTheme"
+        android:uiOptions="splitActionBarWhenNarrow">
+        <activity
+            android:name="net.cherryzhang.lexicav1.Splash"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="net.cherryzhang.lexicav1.ItemListActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.booklistactivity"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.default_searchable"
+                android:value=".SearchableActivity"/>
+        </activity>
+        <activity
+            android:name="net.cherryzhang.lexicav1.ItemDetailActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_book_detail"
+            android:parentActivityName="net.cherryzhang.lexicav1.ItemListActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="net.cherryzhang.lexicav1.ItemListActivity"/>
+        </activity>
+        <activity
+            android:name="net.cherryzhang.lexicav1.ListLexica"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.listlexica"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.default_searchable"
+                android:value=".SearchableActivity"/>
+        </activity>
+        <!-- searchable -->
+        <activity android:name="net.cherryzhang.lexicav1.SearchableActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH"/>
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable"/>
+        </activity>
+        <activity
+            android:name="net.cherryzhang.lexicav1.FAQActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.faq"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="net.cherryzhang.lexicav1.ProfileActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.profile"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="net.cherryzhang.lexicav1.Settings"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.prefs"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="net.cherryzhang.lexicav1.SuggestionProvider"
+            android:authorities="net.cherryzhang.lexicav1.SuggestionProvider"/>
+
+        <!-- Quiz/Exercise Activities -->
+        <activity
+            android:name="net.cherryzhang.lexicav1.LimitedExposureActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.quiz"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:name="net.cherryzhang.lexicav1.KinestheticActivity"
+            android:label="@string/title_activity_kinesthetic">
+            <intent-filter>
+                <action android:name="android.intent.action.kinesthetic"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:name="net.cherryzhang.lexicav1.MORActivity"
+            android:label="@string/title_activity_mor">
+            <intent-filter>
+                <action android:name="android.intent.action.mor"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

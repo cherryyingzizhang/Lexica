@@ -1,0 +1,306 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/toolbar"/>
+
+    <LinearLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="5dp"
+        android:animateLayoutChanges="true"
+        android:baselineAligned="false"
+        android:divider="?android:attr/dividerHorizontal"
+        android:orientation="horizontal"
+        android:showDividers="middle"
+        tools:context="net.cherryzhang.lexicav1.ItemListActivity" >
+
+        <LinearLayout
+            android:id="@+id/llListFragment"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/bAddWord"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/add_button"
+                android:scaleType="fitCenter" />
+
+            <Button
+                android:id="@+id/invisbutton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+
+            <fragment
+                android:id="@+id/book_list"
+                android:name="net.cherryzhang.lexicav1.ItemListFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context="net.cherryzhang.lexicav1.ItemListActivity"
+                tools:layout="@android:layout/list_content" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/book_detail_container"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:animateLayoutChanges="true"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/llshowHideListFragment"
+                android:layout_width="30dp"
+                android:clickable="true"
+                android:layout_height="200dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/pullup_tab_for_list_fragment">
+                <TextView
+                    android:id="@+id/tvShowHideListFragment"
+                    android:text="Show"
+                    android:layout_gravity="center"
+                    android:rotation="90"
+                    android:layout_marginTop="7dp"
+                    android:textColor="@android:color/white"
+                    android:textSize="14sp"
+                    android:layout_marginLeft="-10dp"
+                    android:layout_width="50dp"
+                    android:layout_height="20dp"/>
+            </LinearLayout>
+
+            <ScrollView
+                android:id="@+id/svItemDetailFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:animateLayoutChanges="true">
+
+                <LinearLayout
+                    android:id="@+id/layoutInsideScrollView"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:id="@+id/wordLayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_marginBottom="20dp">
+
+                        <LinearLayout
+                            android:id="@+id/roundedLayoutWord"
+                            android:layout_weight="1000"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/rounded_edges"
+                            android:gravity="center_horizontal">
+
+                            <TextView
+                                android:id="@+id/tvWord"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="Example"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textSize="40sp" />
+                        </LinearLayout>
+
+                        <ImageButton
+                            android:id="@+id/bTextToSpeechItem"
+                            android:layout_weight="1"
+                            style="@style/btnStyleSeagull"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/ic_volume_up_black_24dp"
+                            android:layout_marginLeft="20dp"
+                            android:layout_gravity="center_vertical"/>
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/expandable"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/expand"
+                        android:clickable="true"
+                        android:drawableEnd="@drawable/dropdown"/>
+
+                <LinearLayout
+                    android:id="@+id/layoutToExpandOrHide"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                        <LinearLayout
+                            android:id="@+id/layoutToChangeInPassageMode"
+                            android:orientation="horizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginTop="1dp"
+                            android:layout_marginLeft="20dp"
+                            android:layout_marginRight="20dp"
+                            android:layout_marginBottom="0dp">
+
+                            <LinearLayout
+                                android:id="@+id/meaningLayout"
+                                android:layout_weight="1000"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/rounded_edges"
+                                android:gravity="center_horizontal"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:id="@+id/tvMeaning"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="Example"
+                                    android:textColor="#000000"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textSize="40sp" />
+                            </LinearLayout>
+
+                            <ImageButton
+                                android:id="@+id/bTextToSpeechDesc"
+                                style="@style/btnStyleSeagull"
+                                android:layout_weight="1"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/ic_volume_up_black_24dp"
+                                android:layout_marginLeft="20dp"
+                                android:layout_gravity="center_vertical"/>
+                        </LinearLayout>
+
+                        <ImageView
+                            android:id="@+id/ivImage"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_width="wrap_content"
+                            android:maxWidth="200dp"
+                            android:maxHeight="200dp"
+                            android:layout_height="wrap_content"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:animateLayoutChanges="true"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <Button
+                            android:id="@+id/bHomework"
+                            style="@style/btnStyleSeagull"
+                            android:layout_width="140dp"
+                            android:layout_height="70dp"
+                            android:layout_marginTop="13dp"
+                            android:layout_marginBottom="5dp"
+                            android:layout_gravity="center"
+                            android:animateLayoutChanges="true"
+                            android:drawableStart="@drawable/ic_assignment_black_24dp"
+                            android:text="Homework" />
+
+                        <Button
+                            android:id="@+id/bSlideshow"
+                            style="@style/btnStyleSeagull"
+                            android:layout_width="140dp"
+                            android:layout_height="70dp"
+                            android:layout_marginLeft="35dp"
+                            android:layout_marginTop="13dp"
+                            android:text="Slideshow"
+                            android:drawableStart="@drawable/ic_action_slideshow_black"
+                            android:layout_gravity="center"
+                            android:layout_marginBottom="5dp"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3dp"
+                        android:animateLayoutChanges="true"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <Button
+                            android:id="@+id/prev"
+                            style="@style/btnStyleSeagull"
+                            android:layout_width="140dp"
+                            android:layout_height="70dp"
+                            android:soundEffectsEnabled="false"
+                            android:text="Prev"
+                            android:drawableStart="@drawable/ic_chevron_left_black_24dp"/>
+
+                        <Button
+                            android:id="@+id/next"
+                            style="@style/btnStyleSeagull"
+                            android:layout_width="140dp"
+                            android:layout_height="70dp"
+                            android:layout_marginLeft="35dp"
+                            android:soundEffectsEnabled="false"
+                            android:text="Next"
+                            android:drawableEnd="@drawable/ic_chevron_right_black_24dp"/>
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="2dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="50dp"
+                        android:layout_marginRight="50dp"
+                        android:background="#33000000"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Manual Timer"/>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3dp"
+                        android:animateLayoutChanges="true"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <Button
+                            android:id="@+id/timer"
+                            style="@style/btnStyleSeagull"
+                            android:layout_width="140dp"
+                            android:layout_height="70dp"
+                            android:text="Start/Pause"
+                            android:drawableTop="@drawable/ic_playpause"/>
+
+                        <Button
+                            android:id="@+id/stopTimer"
+                            style="@style/btnStyleSeagull"
+                            android:layout_width="140dp"
+                            android:layout_height="70dp"
+                            android:layout_marginLeft="35dp"
+                            android:text="Reset Timer"
+                            android:drawableTop="@drawable/ic_stop_black_24dp"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array
+        name="font_list">
+        <item>Default</item>
+        <item>Handwriting</item>
+        <item>3d</item>
+    </string-array>
+    
+    <string-array
+        name="font_list_values">
+        <item>Default</item>
+        <item>Handwriting</item>
+        <item>3d</item>
+    </string-array>
+    
+    <string-array
+        name="size_list">
+        <item>30 sp</item>
+        <item>40 sp</item>
+        <item>50 sp</item>
+        <item>60 sp</item>
+        <item>70 sp</item>
+        <item>80 sp</item>
+    </string-array>
+    
+    <string-array
+        name="size_list_values">
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+    </string-array>
+
+    <string-array
+        name="expand_desc_list">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+
+    <string-array
+        name="expand_desc_list_values">
+        <item>true</item>
+        <item>false</item>
+    </string-array>
+</resources>

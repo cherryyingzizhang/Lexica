@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/toolbar"/>
+
+
+    <!--View for each kinesthetic question in kinesthetic test-->
+    <LinearLayout
+        android:id="@+id/llKinestheticTestView"
+        android:visibility="gone"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:layout_below="@id/toolbar">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="44dp"
+            android:background="@drawable/rounded_edges"
+            android:gravity="center"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tvKinestheticWordToHandwrite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Example Word"
+                android:textSize="32dp"
+                android:gravity="center_horizontal"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </LinearLayout>
+
+        <!--This widget's layout and features will be programmatically
+         changed in the kinesthetic activity class.-->
+        <com.myscript.atk.scw.SingleCharWidget
+            android:id="@+id/singleCharWidget"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#555555"/>
+    </LinearLayout>
+
+
+    <!--View for the kinesthetic test results in kinesthetic test-->
+
+    <ScrollView
+        android:id="@+id/llKinestheticResultView"
+        android:visibility="gone"
+        android:layout_marginBottom="44dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar">
+        <LinearLayout
+            android:layout_margin="44dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_edges"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <TextView
+                android:gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                android:text="End of Test."
+                android:textSize="40sp" />
+
+            <TextView
+                android:id="@+id/tvKinestheticTestScore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="21dp"
+                android:layout_marginBottom="10dp"
+                android:text="Score: 25/50"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </LinearLayout>
+    </ScrollView>
+
+    <ProgressBar
+        android:id="@+id/kinestheticProgressCircle"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:indeterminate="false"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

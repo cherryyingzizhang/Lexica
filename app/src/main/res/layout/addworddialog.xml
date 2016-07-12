@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:windowSoftInputMode="adjustResize|stateHidden"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:id="@+id/layoutToHideWhenLoading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    
+        <TextView
+            android:id="@+id/tvEnterWord"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enter Item:"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+        <EditText
+            android:id="@+id/etAddWord"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_height="wrap_content"
+            android:hint="Enter item"
+            android:text=""
+            android:autoText="true"
+            android:capitalize="words"/>
+
+
+        <TextView
+            android:id="@+id/tvEnterMeaning"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enter Hint for Item:"
+            android:textAppearance="?android:attr/textAppearanceLarge"></TextView>
+
+
+        <EditText
+            android:id="@+id/etAddMeaning"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:maxLines="5"
+            android:layout_height="wrap_content"
+            android:hint="Enter Hint for Item"
+            android:capitalize="sentences"
+            android:autoText="true"/>
+
+        <CheckBox
+            android:id="@+id/cbIsPassage"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:text="This item is a paragraph/passage."/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:gravity="center_horizontal"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:layout_marginRight="20dp"
+                android:layout_gravity="center"
+                android:id="@+id/bUploadImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/btnStyleSeagull"
+                android:drawableStart="@drawable/ic_collections_black_24dp"
+                android:layout_weight="0"
+                android:text="Add Image"/>
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:background="@android:color/darker_gray"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"/>
+
+                <ImageView
+                    android:id="@+id/removeImage"
+                    android:background="#55000000"
+                    android:clickable="true"
+                    android:src="@drawable/ic_action_remove"
+                    android:layout_gravity="top|right"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+            </FrameLayout>
+        </LinearLayout>
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:id="@+id/bOkForAddWordDialog"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            style="@style/btnStyleSeagull"
+            android:drawableStart="@drawable/ic_add_black_24dp"
+            android:layout_weight="0"
+            android:text="Add"/>
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progressCircle"
+        android:visibility="gone"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:indeterminate="true"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

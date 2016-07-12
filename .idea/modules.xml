@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LexicaV1.iml" filepath="$PROJECT_DIR$/LexicaV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyScript_ATK-Core-android-component/MyScript_ATK-Core-android-component.iml" filepath="$PROJECT_DIR$/MyScript_ATK-Core-android-component/MyScript_ATK-Core-android-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyScript_ATK-IMCommon-android-component/MyScript_ATK-IMCommon-android-component.iml" filepath="$PROJECT_DIR$/MyScript_ATK-IMCommon-android-component/MyScript_ATK-IMCommon-android-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyScript_ATK-SingleCharWidget-android-widget/MyScript_ATK-SingleCharWidget-android-widget.iml" filepath="$PROJECT_DIR$/MyScript_ATK-SingleCharWidget-android-widget/MyScript_ATK-SingleCharWidget-android-widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyScript_ATK-Text-android-component/MyScript_ATK-Text-android-component.iml" filepath="$PROJECT_DIR$/MyScript_ATK-Text-android-component/MyScript_ATK-Text-android-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

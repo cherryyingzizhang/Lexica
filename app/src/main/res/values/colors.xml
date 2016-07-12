@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="blue_tooltip_background_color">#3DBEF5</color>
+	<color name="btn_bg_pressed_mask">#19000000</color>
+	<color name="custom_showcase_bg">#b9002153</color>
+</resources>

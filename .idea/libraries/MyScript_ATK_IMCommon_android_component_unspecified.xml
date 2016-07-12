@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MyScript_ATK-IMCommon-android-component-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/LexicaV1/MyScript_ATK-IMCommon-android-component/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/LexicaV1/MyScript_ATK-IMCommon-android-component/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

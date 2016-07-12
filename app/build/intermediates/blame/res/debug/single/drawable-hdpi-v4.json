@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_button.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/add_button.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_stop.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/ic_action_stop.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sort_by_alphabetical_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_sort_by_alphabetical_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_collections_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_collections_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_format_size_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_format_size_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/popup_black.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/popup_black.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_slideshow.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/ic_action_slideshow.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_chrome_reader_mode_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_chrome_reader_mode_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_playpause.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_playpause.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_sort_by_size.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/ic_action_sort_by_size.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_touch_app_white_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_touch_app_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_gamepad.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/ic_action_gamepad.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_person.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/ic_action_person.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/custom_button_seagull.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/custom_button_seagull.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_subject_white_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_subject_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_slideshow_black.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/ic_action_slideshow_black.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_remove_clicked.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/ic_action_remove_clicked.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_cling_pressed.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.3/res/drawable-hdpi-v4/btn_cling_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_date_created_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_date_created_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_next_item.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lexicalogo.jpg",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/lexicalogo.jpg"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/plus_blue.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/plus_blue.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_volume_up_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_volume_up_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_settings.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/ic_action_settings.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_chevron_right_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_chevron_right_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/custom_button_seagull_lighter.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/custom_button_seagull_lighter.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rounded_edges.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/rounded_edges.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_assignment_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_assignment_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_close_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_close_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/new_pic.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/new_pic.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete_button_pressed.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/delete_button_pressed.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_random_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_random_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/custom_button_seagull_dark.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/custom_button_seagull_dark.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_add_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_add_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/small_lexica_logo.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/small_lexica_logo.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dropdown.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/dropdown.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_remove.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cling.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.3/res/drawable-hdpi-v4/cling.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/plus_black.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/plus_black.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_check_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_check_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_cling_normal.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.3/res/drawable-hdpi-v4/btn_cling_normal.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hand.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.3/res/drawable-hdpi-v4/hand.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_stop_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_stop_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_chevron_left_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_chevron_left_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_help.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/ic_action_help.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_format_font_black_24dp.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_format_font_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete_button.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-hdpi/delete_button.xml"
+    }
+]
