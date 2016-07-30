@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_chevron_left_black_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_chevron_left_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_assignment_black_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_assignment_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_add_black_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_date_created_black_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_date_created_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_volume_up_black_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_volume_up_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_chevron_right_black_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_chevron_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/cling_button_bg.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.3/res/drawable/cling_button_bg.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_touch_app_white_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_touch_app_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_check_black_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_check_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_chrome_reader_mode_black_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_chrome_reader_mode_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_playpause.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_playpause.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_format_font_black_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_format_font_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/button.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.3/res/drawable/button.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_stop_black_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_stop_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_collections_black_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_collections_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_format_size_black_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_format_size_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_sort_by_alphabetical_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_sort_by_alphabetical_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_close_black_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_random_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_random_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/ic_subject_white_24dp.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/ic_subject_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/button_normal.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.3/res/drawable/button_normal.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/pullup_tab_for_list_fragment.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/pullup_tab_for_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/drawable/material_showcase_button_bg.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable/material_showcase_button_bg.xml"
+    }
+]

@@ -28,8 +28,7 @@
             android:layout_height="wrap_content"
             android:hint="Enter item"
             android:text=""
-            android:autoText="true"
-            android:capitalize="words"/>
+            android:inputType="textCapSentences|textAutoCorrect"/>
 
 
         <TextView
@@ -49,8 +48,7 @@
             android:maxLines="5"
             android:layout_height="wrap_content"
             android:hint="Enter Hint for Item"
-            android:capitalize="sentences"
-            android:autoText="true"/>
+            android:inputType="textCapSentences|textAutoCorrect"/>
 
         <CheckBox
             android:id="@+id/cbIsPassage"

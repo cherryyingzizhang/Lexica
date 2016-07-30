@@ -16,16 +16,16 @@
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_touch_app_white_24dp.png"
     },
     {
-        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/elv_ic_action_undo.png",
-        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-ldpi/elv_ic_action_undo.png"
-    },
-    {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_collections_black_24dp.png",
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_collections_black_24dp.png"
     },
     {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_date_created_black_24dp.png",
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_date_created_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/elv_ic_action_undo.png",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/drawable-ldpi/elv_ic_action_undo.png"
     },
     {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/elv_toast_frame.9.png",
@@ -66,10 +66,6 @@
     {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_random_24dp.png",
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/generated/res/pngs/debug/drawable-ldpi/ic_random_24dp.png"
-    },
-    {
-        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
-        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
     },
     {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_add_black_24dp.png",

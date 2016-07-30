@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/ic_action_remove_clicked"/>
+    <item android:drawable="@color/btn_bg_pressed_mask"/>
+
+</layer-list>

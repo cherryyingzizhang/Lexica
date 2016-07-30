@@ -44,40 +44,40 @@
         "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/layout/addlexicondialog.xml"
     },
     {
-        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/activity_book_detail.xml",
-        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/layout/activity_book_detail.xml"
-    },
-    {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/row.xml",
         "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/layout/row.xml"
     },
     {
-        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_toolbar.xml"
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/activity_book_detail.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/layout/activity_book_detail.xml"
     },
     {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_media_action.xml"
-    },
-    {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_media_action.xml"
     },
     {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/order_by_dialog.xml",
@@ -112,12 +112,12 @@
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_big_media_narrow.xml"
-    },
-    {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
@@ -148,12 +148,12 @@
         "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/layout/activity_mor.xml"
     },
     {
-        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/settings_activity.xml",
         "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/layout/settings_activity.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
@@ -164,12 +164,12 @@
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_search_view.xml"
-    },
-    {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
@@ -192,12 +192,12 @@
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/listlexica.xml",
-        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/layout/listlexica.xml"
-    },
-    {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/searchable_activity.xml",
         "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/layout/searchable_activity.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/listlexica.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/layout/listlexica.xml"
     },
     {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
@@ -232,11 +232,11 @@
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_mode_bar.xml"
-    },
-    {
         "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_action_mode_bar.xml"
     }
 ]

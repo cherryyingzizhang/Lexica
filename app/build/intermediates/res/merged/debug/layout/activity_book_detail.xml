@@ -2,7 +2,6 @@
 
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/book_detail_container_activity"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -97,15 +96,14 @@
                         android:gravity="center_horizontal"
                         android:orientation="vertical">
 
-                        <TextView
+                        <com.example.lexicav1.TextToSpeechTextView
                             android:id="@+id/tvMeaning"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
+                            android:textColor="@android:color/black"
                             android:gravity="center"
-                            android:text="Example"
-                            android:textColor="#000000"
                             android:textAppearance="?android:attr/textAppearanceMedium"
-                            android:textSize="40sp" />
+                            android:text="Example"/>
                     </LinearLayout>
 
                     <ImageButton

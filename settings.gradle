@@ -1,1 +1,1 @@
-include ':app', ':MyScript_ATK-Core-android-component', ':MyScript_ATK-Text-android-component', ':MyScript_ATK-IMCommon-android-component', ':MyScript_ATK-SingleCharWidget-android-widget'
+include ':app', ':MyScript_ATK-Core-android-component', ':MyScript_ATK-Text-android-component', ':MyScript_ATK-IMCommon-android-component', ':MyScript_ATK-SingleCharWidget-android-widget', ':poishadow-all'

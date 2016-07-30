@@ -6,47 +6,53 @@
         android:id="@+id/SEARCH_item"
         android:icon="@drawable/ic_action_search"
         android:title="Search"
-        app:showAsAction="always"></item>
+        app:showAsAction="always"/>
 
 	<item
 		android:id="@+id/OrderBy_item"
 		android:icon="@drawable/ic_action_sort_by_size"
 		android:title="Sort By"
-		app:showAsAction="always"></item>
+		app:showAsAction="always"/>
 	
 	<item
 	    android:id="@+id/SLIDESHOW_item"
 	    android:icon="@drawable/ic_action_slideshow"
 	    android:title="Slideshow"
-	    app:showAsAction="always"></item>
+	    app:showAsAction="always"/>
 
 	<item
 		android:id="@+id/KINESTHETIC_item"
 		android:icon="@drawable/ic_touch_app_white_24dp"
 		android:title="Kinesthetic"
-		app:showAsAction="always"></item>
+		app:showAsAction="always"/>
 
 	<item
 		android:id="@+id/QUIZ_item"
 		android:icon="@drawable/ic_action_gamepad"
 		android:title="Quiz"
-		app:showAsAction="always"></item>
+		app:showAsAction="always"/>
 
 	<item
 		android:id="@+id/MOR_item"
 		android:icon="@drawable/ic_subject_white_24dp"
 		android:title="@string/MOR_title"
-		app:showAsAction="always"></item>
+		app:showAsAction="always"/>
 
 	<item
 		android:id="@+id/TUTORIAL_item"
 		android:icon="@drawable/ic_action_help"
 		android:title="@string/tutorial"
-		app:showAsAction="always"></item>
+		app:showAsAction="always"/>
+
+	<item
+		android:id="@+id/IMPORT_item"
+		android:icon="@drawable/ic_import"
+		android:title="@string/Import"
+		app:showAsAction="ifRoom"/>
 
 	<item
         android:id="@+id/SETTINGS_item"
         android:icon="@drawable/ic_action_settings"
         android:title="@string/SETTINGS_title"
-        app:showAsAction="always"></item>
+        app:showAsAction="ifRoom"/>
 </menu>

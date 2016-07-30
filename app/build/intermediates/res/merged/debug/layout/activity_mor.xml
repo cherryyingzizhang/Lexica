@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="net.cherryzhang.lexicav1.MORActivity">
+    tools:context="com.example.lexicav1.MORActivity">
 
     <include layout="@layout/toolbar"/>
 
@@ -45,7 +44,7 @@
                 android:drawableStart="@drawable/ic_playpause"
                 android:text="Start" />
 
-            <net.cherryzhang.lexicav1.TextToSpeechTextView
+            <com.example.lexicav1.TextToSpeechTextView
                 android:id="@+id/tvMORText"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

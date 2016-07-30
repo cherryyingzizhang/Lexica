@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/appLabel"
+    android:hint="@string/searchHint"
+    android:searchSuggestAuthority="com.example.lexicav1.SuggestionProvider"
+    android:searchSuggestIntentAction="android.Intent.action.VIEW"
+    android:searchSuggestIntentData="content://com.example.lexicav1.SuggestionProvider/word" >
+
+</searchable>

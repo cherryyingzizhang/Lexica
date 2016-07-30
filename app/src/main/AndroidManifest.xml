@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="net.cherryzhang.lexicav1"
+<manifest package="com.example.lexicav1"
           xmlns:android="http://schemas.android.com/apk/res/android"
           android:versionCode="1"
           android:versionName="1.0">
@@ -14,7 +14,7 @@
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
-        android:name="net.cherryzhang.lexicav1.ApplicationOverrideMethods"
+        android:name="com.example.lexicav1.ApplicationOverrideMethods"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:imeOptions="actionSend|flagNoEnterAction"
@@ -22,7 +22,7 @@
         android:theme="@style/MyTheme"
         android:uiOptions="splitActionBarWhenNarrow">
         <activity
-            android:name="net.cherryzhang.lexicav1.Splash"
+            android:name=".Splash"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -31,7 +31,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.cherryzhang.lexicav1.ItemListActivity"
+            android:name=".ItemListActivity"
             android:configChanges="orientation|screenSize"
             android:label="@string/app_name">
             <intent-filter>
@@ -45,16 +45,16 @@
                 android:value=".SearchableActivity"/>
         </activity>
         <activity
-            android:name="net.cherryzhang.lexicav1.ItemDetailActivity"
+            android:name=".ItemDetailActivity"
             android:configChanges="orientation|screenSize"
             android:label="@string/title_book_detail"
-            android:parentActivityName="net.cherryzhang.lexicav1.ItemListActivity">
+            android:parentActivityName=".ItemListActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="net.cherryzhang.lexicav1.ItemListActivity"/>
+                android:value=".ItemListActivity"/>
         </activity>
         <activity
-            android:name="net.cherryzhang.lexicav1.ListLexica"
+            android:name=".ListLexica"
             android:configChanges="orientation|screenSize"
             android:label="@string/app_name">
             <intent-filter>
@@ -68,7 +68,7 @@
                 android:value=".SearchableActivity"/>
         </activity>
         <!-- searchable -->
-        <activity android:name="net.cherryzhang.lexicav1.SearchableActivity">
+        <activity android:name=".SearchableActivity">
             <intent-filter>
                 <action android:name="android.intent.action.SEARCH"/>
             </intent-filter>
@@ -78,7 +78,7 @@
                 android:resource="@xml/searchable"/>
         </activity>
         <activity
-            android:name="net.cherryzhang.lexicav1.FAQActivity"
+            android:name=".FAQActivity"
             android:configChanges="orientation|screenSize"
             android:label="@string/app_name">
             <intent-filter>
@@ -88,7 +88,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.cherryzhang.lexicav1.ProfileActivity"
+            android:name=".ProfileActivity"
             android:configChanges="orientation|screenSize"
             android:label="@string/app_name">
             <intent-filter>
@@ -98,7 +98,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.cherryzhang.lexicav1.Settings"
+            android:name=".Settings"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.prefs"/>
@@ -108,12 +108,12 @@
         </activity>
 
         <provider
-            android:name="net.cherryzhang.lexicav1.SuggestionProvider"
-            android:authorities="net.cherryzhang.lexicav1.SuggestionProvider"/>
+            android:name="com.example.lexicav1.SuggestionProvider"
+            android:authorities="com.example.lexicav1.SuggestionProvider"/>
 
         <!-- Quiz/Exercise Activities -->
         <activity
-            android:name="net.cherryzhang.lexicav1.LimitedExposureActivity"
+            android:name=".LimitedExposureActivity"
             android:configChanges="orientation|screenSize"
             android:label="@string/app_name">
             <intent-filter>
@@ -124,7 +124,7 @@
         </activity>
         <activity
             android:configChanges="keyboardHidden|orientation|screenSize"
-            android:name="net.cherryzhang.lexicav1.KinestheticActivity"
+            android:name=".KinestheticActivity"
             android:label="@string/title_activity_kinesthetic">
             <intent-filter>
                 <action android:name="android.intent.action.kinesthetic"/>
@@ -134,7 +134,7 @@
         </activity>
         <activity
             android:configChanges="keyboardHidden|orientation|screenSize"
-            android:name="net.cherryzhang.lexicav1.MORActivity"
+            android:name=".MORActivity"
             android:label="@string/title_activity_mor">
             <intent-filter>
                 <action android:name="android.intent.action.mor"/>

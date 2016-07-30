@@ -19,4 +19,5 @@
     <string name="MOR_title">Multiple Oral Re-reading</string>
     <string name="title_activity_mor">MORActivity</string>
     <string name="tutorial">Tutorial</string>
+    <string name="Import">Import</string>
 </resources>

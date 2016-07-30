@@ -1,0 +1,26 @@
+-keep class com.example.lexicav1.ApplicationOverrideMethods {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.example.lexicav1.Splash { <init>(); }
+-keep class com.example.lexicav1.ItemListActivity { <init>(); }
+-keep class com.example.lexicav1.ItemDetailActivity { <init>(); }
+-keep class com.example.lexicav1.ListLexica { <init>(); }
+-keep class com.example.lexicav1.SearchableActivity { <init>(); }
+-keep class com.example.lexicav1.FAQActivity { <init>(); }
+-keep class com.example.lexicav1.ProfileActivity { <init>(); }
+-keep class com.example.lexicav1.Settings { <init>(); }
+-keep class com.example.lexicav1.SuggestionProvider { <init>(); }
+-keep class com.example.lexicav1.LimitedExposureActivity { <init>(); }
+-keep class com.example.lexicav1.KinestheticActivity { <init>(); }
+-keep class com.example.lexicav1.MORActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor

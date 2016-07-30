@@ -18,7 +18,7 @@
         android:divider="?android:attr/dividerHorizontal"
         android:orientation="horizontal"
         android:showDividers="middle"
-        tools:context="net.cherryzhang.lexicav1.ItemListActivity" >
+        tools:context="com.example.lexicav1.ItemListActivity" >
 
         <LinearLayout
             android:id="@+id/llListFragment"
@@ -46,10 +46,10 @@
 
             <fragment
                 android:id="@+id/book_list"
-                android:name="net.cherryzhang.lexicav1.ItemListFragment"
+                android:name="com.example.lexicav1.ItemListFragment"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                tools:context="net.cherryzhang.lexicav1.ItemListActivity"
+                tools:context="net.example.lexicav1.ItemListActivity"
                 tools:layout="@android:layout/list_content" />
         </LinearLayout>
 

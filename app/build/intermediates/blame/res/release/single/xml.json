@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/xml/searchable.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/xml/prefs.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/xml/prefs.xml"
+    }
+]

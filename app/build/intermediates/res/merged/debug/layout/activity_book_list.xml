@@ -46,12 +46,12 @@
 
         <fragment
             android:id="@+id/book_list"
-            android:name="net.cherryzhang.lexicav1.ItemListFragment"
+            android:name="com.example.lexicav1.ItemListFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
-            tools:context="net.cherryzhang.lexicav1.ItemListActivity"
+            tools:context="net.example.lexicav1.ItemListActivity"
             tools:layout="@android:layout/list_content" />
 
     </LinearLayout>

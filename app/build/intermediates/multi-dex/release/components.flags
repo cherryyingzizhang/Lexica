@@ -1,0 +1,81 @@
+-injars /Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/jarMerging/release/jars/1/1f/combined.jar
+-outjars /Users/Cherry_Zhang/LexicaV1/app/build/intermediates/multi-dex/release/componentClasses.jar
+
+-libraryjars /Users/Cherry_Zhang/Library/Android/sdk/build-tools/23.0.3/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration /Users/Cherry_Zhang/LexicaV1/app/build/intermediates/multi-dex/release/components.flags
+
+
+-keep class com.example.lexicav1.ApplicationOverrideMethods {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.example.lexicav1.Splash {
+    <init>();
+}
+
+-keep class com.example.lexicav1.ItemListActivity {
+    <init>();
+}
+
+-keep class com.example.lexicav1.ItemDetailActivity {
+    <init>();
+}
+
+-keep class com.example.lexicav1.ListLexica {
+    <init>();
+}
+
+-keep class com.example.lexicav1.SearchableActivity {
+    <init>();
+}
+
+-keep class com.example.lexicav1.FAQActivity {
+    <init>();
+}
+
+-keep class com.example.lexicav1.ProfileActivity {
+    <init>();
+}
+
+-keep class com.example.lexicav1.Settings {
+    <init>();
+}
+
+-keep class com.example.lexicav1.SuggestionProvider {
+    <init>();
+}
+
+-keep class com.example.lexicav1.LimitedExposureActivity {
+    <init>();
+}
+
+-keep class com.example.lexicav1.KinestheticActivity {
+    <init>();
+}
+
+-keep class com.example.lexicav1.MORActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

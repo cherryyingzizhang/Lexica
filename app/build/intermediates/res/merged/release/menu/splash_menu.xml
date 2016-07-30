@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/FAQ_item"
+        android:icon="@drawable/ic_action_help"
+        android:title="@string/FAQ_title"
+        app:showAsAction="always"></item>
+    
+    <!--<item-->
+        <!--android:id="@+id/PROFILE_item"-->
+        <!--android:icon="@drawable/ic_action_person"-->
+        <!--android:title="@string/PROFILE_title"-->
+        <!--app:showAsAction="always"></item>-->
+    
+	<item
+        android:id="@+id/SETTINGS_item"
+        android:icon="@drawable/ic_action_settings"
+        android:title="@string/SETTINGS_title"
+        app:showAsAction="always"></item>
+</menu>

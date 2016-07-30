@@ -2,31 +2,60 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "net.cherryzhang.lexicav1"
+        applicationId 'com.example.lexicav1'
         minSdkVersion 19
-        targetSdkVersion 21
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
     }
 
     buildTypes {
+        debug {
+            debuggable true
+        }
         release {
             minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+    }
+
+    productFlavors {
+    }
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/NOTICE'
+        //exclude 'META-INF/NOTICE.txt'
+        //exclude 'META-INF/LICENSE'
+        //exclude 'META-INF/LICENSE.txt'
+    }
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+
+    lintOptions {
+        // There are restricted packages used in some of POI code, e.g. java.awt or javax.imageio
+        // I could not exclude without this
+        abortOnError false
     }
 }
 
 dependencies {
     //compile 'com.android.support:support-v4:19.1.0'
     compile project(':MyScript_ATK-Core-android-component')
-    compile project(':MyScript_ATK-Text-android-component')
     compile project(':MyScript_ATK-IMCommon-android-component')
     compile project(':MyScript_ATK-SingleCharWidget-android-widget')
+    compile project(':MyScript_ATK-Text-android-component')
     compile 'com.github.amlcurran.showcaseview:library:5.4.3'
     compile 'com.github.douglasjunior:android-simple-tooltip:0.1.0'
     compile 'com.squareup.picasso:picasso:2.5.2'
+    //compile 'org.apache.poi:poi:3.15-beta2'
+    //compile 'org.apache.poi:poi-ooxml:3.15-beta2'
+    compile project(':poishadow-all')
+    compile 'com.android.support:multidex:1.0.1'
 }
-
-apply plugin: 'com.google.gms.google-services'

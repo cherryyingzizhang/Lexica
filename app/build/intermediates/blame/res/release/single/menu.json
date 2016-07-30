@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/menu/list_of_items_menu.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/menu/list_of_items_menu.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/menu/splash_menu.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/menu/splash_menu.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/menu/item_detail_menu.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/menu/item_detail_menu.xml"
+    },
+    {
+        "merged": "/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/res/merged/release/menu/listlexica_menu.xml",
+        "source": "/Users/Cherry_Zhang/LexicaV1/app/src/main/res/menu/listlexica_menu.xml"
+    }
+]

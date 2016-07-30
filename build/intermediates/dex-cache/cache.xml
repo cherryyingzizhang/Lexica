@@ -1,2 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/LexicaV1/MyScript_ATK-SingleCharWidget-android-widget/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2187073c604e0dcc63efd1eaa72ff8d8cbae7500">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/4/LexicaV1-MyScript_ATK-SingleCharWidget-android-widget-unspecified_539cbf448825affaf79b5ec9c2da33ce3882e60f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/LexicaV1/MyScript_ATK-Core-android-component/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a38cf92cea9b988f8cea4bf475a5cc9bcce97bad">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/4/LexicaV1-MyScript_ATK-Core-android-component-unspecified_4e8e6b79ef27f30049274279607c520aa67e8960/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/LexicaV1/poishadow-all/poishadow-all.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="606988a616f4be82bf856312272e65aa60900af8">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/4/poishadow-all_55c941bf8a4a496fa22dfcbed7335bc1cbbc72cc/classes.dex" />
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/4/poishadow-all_55c941bf8a4a496fa22dfcbed7335bc1cbbc72cc/classes2.dex" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/10/support-annotations-23.2.1_b1f50d24cf54e98f78b831b29a7ebfd4b086353c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_73ecdab06738581179f0183662607c725f93e9e7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/LexicaV1/MyScript_ATK-IMCommon-android-component/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a6c26f1cea6688a11e0fee90a9d409bb5cb00e2a">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/4/LexicaV1-MyScript_ATK-IMCommon-android-component-unspecified_e64028695297032c2323d5c535a85041ee179bc3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/10/picasso-2.5.2_d1d92d50b750f31f4f9dcd205fed1d9743aa8eeb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-appcompat-v7-23.2.1_4a6e81d275383e0e64a4fa0f30925763e08bd46d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/LexicaV1/MyScript_ATK-Text-android-component/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8c149a0594f259ef50d4f0cd7466ab14f63f5fd2">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/4/LexicaV1-MyScript_ATK-Text-android-component-unspecified_d69ab295d7544974fbff18f4c6f0bde1c3d66e32/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.github.douglasjunior/android-simple-tooltip/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9f1ceec866516e1b6cabbbe0f2af7045f5f9034f">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/10/com.github.douglasjunior-android-simple-tooltip-0.1.0_80709795c5406aad5f0e2763b9ab98be2602182f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_ceee2b024f41bc016bc037ade5825f5928c46be6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/10/com.android.support-support-v4-23.2.1_005e067c0526bc643ffc7fc27274e5a58eaf638b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/10/internal_impl-23.2.1_e16d6ec024c89418719b85fa0df93d44f82af8a1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a06b0579dbe59192ef460e3de04657720925d05b">
+        <dex dex="/Users/Cherry_Zhang/LexicaV1/app/build/intermediates/transforms/dex/release/folders/1000/10/com.github.amlcurran.showcaseview-library-5.4.3_3957ed7b42bddc35cb33106d6de621b3e395887a/classes.dex" />
+    </item>
+
+</items>
